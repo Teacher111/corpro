@@ -93,7 +93,7 @@
 
     <header>
         <div class="servih">
-            <img src="images/servi.png">
+            <img src="http://www.servirefriaire.com/images/servi.png">
         </div>
 
 
@@ -130,7 +130,7 @@
                     
         
                     <figure>
-                        <img src="images/header.png">
+                        <img src="http://www.servirefriaire.com/images/header.png">
                     </figure>
                     <div class="contact">
                         <p><i class="fa fa-map-marker"></i> Carrera 50D #6 Sur-34, Medellín, Colombia</p>
@@ -138,7 +138,7 @@
                         <p><i class="fa fa-envelope"></i>dlogistica@servirefriaire.com</p>
                     </div>
                 </div>
-                <figure style="background: url('images/banner1.jpg') center center; background-size: cover"></figure>
+                <figure style="background: url('http://www.servirefriaire.com/images/banner1.jpg') center center; background-size: cover"></figure>
             </div>
         </div>
     </header>
@@ -149,7 +149,7 @@
                 <h3>Nuestros clientes</h3>
 
             <div class="gallery clients">
-                <a rel="clients" title="CENATAC" class="item" href="images/clients/bancodebogota.jpg">
+                <a rel="clients" title="CENATAC" class="item" href="http://www.servirefriaire.com/images/clients/bancodebogota.jpg">
                     <figure>
                         <img src="http://www.servirefriaire.com/images/clients/bancodebogota.jpg">
                     </figure>
@@ -164,22 +164,22 @@
                         <img src="http://www.servirefriaire.com/images/clients/bancolombia.jpg">
                     </figure>
                 </a>                
-                <a rel="clients" title="CENATAC" class="item" href="images/clients/cat.jpg">
+                <a rel="clients" title="CENATAC" class="item" href="http://www.servirefriaire.com/images/clients/cat.jpg">
                     <figure>
                         <img src="http://www.servirefriaire.com/images/clients/cat.jpg">
                     </figure>
                 </a>                
-                <a rel="clients" title="CENATAC" class="item" href="images/clients/comfama.jpg">
+                <a rel="clients" title="CENATAC" class="item" href="http://www.servirefriaire.com/images/clients/comfama.jpg">
                     <figure>
                         <img src="http://www.servirefriaire.com/images/clients/comfama.jpg">
                     </figure>
                 </a>                
-                <a rel="clients" title="CENATAC" class="item" href="images/clients/epm.jpg">
+                <a rel="clients" title="CENATAC" class="item" href="http://www.servirefriaire.com/images/clients/epm.jpg">
                     <figure>
                         <img src="http://www.servirefriaire.com/images/clients/epm.jpg">
                     </figure>
                 </a>                
-                <a rel="clients" title="CENATAC" class="item" href="images/clients/flamingo.jpg">
+                <a rel="clients" title="CENATAC" class="item" href="http://www.servirefriaire.com/images/clients/flamingo.jpg">
                     <figure>
                         <img src="http://www.servirefriaire.com/images/clients/flamingo.jpg">
                     </figure>
@@ -194,12 +194,12 @@
                         <img src="http://www.servirefriaire.com/images/clients/min-procinal.jpg">
                     </figure>
                 </a>                
-                <a rel="clients" title="CENATAC" class="item" href="images/clients/min-puertadelnorte.jpg">
+                <a rel="clients" title="CENATAC" class="item" href="http://www.servirefriaire.com/images/clients/min-puertadelnorte.jpg">
                     <figure>
                         <img src="http://www.servirefriaire.com/images/clients/min-puertadelnorte.jpg">
                     </figure>
                 </a>                
-                <a rel="clients" title="CENATAC" class="item" href="images/clients/min-sandiego.jpg">
+                <a rel="clients" title="CENATAC" class="item" href="http://www.servirefriaire.com/images/clients/min-sandiego.jpg">
                     <figure>
                         <img src="http://www.servirefriaire.com/images/clients/min-sandiego.jpg">
                     </figure>
@@ -235,19 +235,19 @@
     <!-- Add jQuery library -->
     <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
 
-    <script type="text/javascript" src="assets/slick-1.8.0/slick.min.js"></script>
+    <script type="text/javascript" src="http://www.servirefriaire.com/assets/slick-1.8.0/slick.min.js"></script>
 
     <!-- Add fancyBox -->
     <link rel="stylesheet" href="assets/fancybox-2.1.7/jquery.fancybox.css?v=2.1.7" type="text/css" media="screen" />
     <script type="text/javascript" src="assets/fancybox-2.1.7/jquery.fancybox.pack.js?v=2.1.7"></script>
 
     <!-- Optionally add helpers - button, thumbnail and/or media -->
-    <link rel="stylesheet" href="assets/fancybox-2.1.7/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
-    <script type="text/javascript" src="assets/fancybox-2.1.7/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
-    <script type="text/javascript" src="assets/fancybox-2.1.7/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
+    <link rel="stylesheet" href="http://www.servirefriaire.com/assets/fancybox-2.1.7/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
+    <script type="text/javascript" src="http://www.servirefriaire.com/assets/fancybox-2.1.7/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+    <script type="text/javascript" src="http://www.servirefriaire.com/assets/fancybox-2.1.7/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
 
     <link rel="stylesheet" href="assets/fancybox-2.1.7/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
-    <script type="text/javascript" src="assets/fancybox-2.1.7/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+    <script type="text/javascript" src="http://www.servirefriaire.com/assets/fancybox-2.1.7/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
 
     <script src="http://www.servirefriaire.com/assets/js/main.js"></script>
 </body>
