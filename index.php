@@ -5,12 +5,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="shortcut icon" href="images/favicon.png" />
+    <link rel="shortcut icon" href="http://www.servirefriaire.com/images/favicon.png" />
     <title>Servirefriaire - expertos en mantenimiento de aire acondicionado</title>
 
-    <link type="text/css" rel="stylesheet" href="assets/css/styles.css">
-    <link type="text/css" rel="stylesheet" href="assets/font-awesome-4.7.0/css/font-awesome.css">
-    <link rel="stylesheet" type="text/css" href="assets/slick-1.8.0/slick.css" />
+    <link type="text/css" rel="stylesheet" href="http://www.servirefriaire.com/assets/css/styles.css">
+    <link type="text/css" rel="stylesheet" href="http://www.servirefriaire.com/assets/font-awesome-4.7.0/css/font-awesome.css">
+    <link rel="stylesheet" type="text/css" href="http://www.servirefriaire.com/assets/slick-1.8.0/slick.css" />
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,700" rel="stylesheet">
@@ -19,7 +19,7 @@
 
 <body role="home">
     <div class="preloader">
-        <img  src="images/logo.png" alt="">
+        <img  src="http://www.servirefriaire.com/images/logo.png" alt="">
         <span>Espere un momento</span>
     </div>
 
@@ -34,7 +34,7 @@
     <div class="nav">
         <div class="logo">
             <figure>
-                <a href="index.html"><img src="images/logo.png"></a>
+                <a href="index.html"><img src="http://www.servirefriaire.com/images/logo.png"></a>
             </figure>
         </div>
 
@@ -151,62 +151,62 @@
             <div class="gallery clients">
                 <a rel="clients" title="CENATAC" class="item" href="images/clients/bancodebogota.jpg">
                     <figure>
-                        <img src="images/clients/bancodebogota.jpg">
+                        <img src="http://www.servirefriaire.com/images/clients/bancodebogota.jpg">
                     </figure>
                 </a>                
                 <a rel="clients" title="CENATAC" class="item" href="images/clients/bancodeoccidente.jpg">
                     <figure>
-                        <img src="images/clients/bancodeoccidente.jpg">
+                        <img src="http://www.servirefriaire.com/images/clients/bancodeoccidente.jpg">
                     </figure>
                 </a>                
                 <a rel="clients" title="CENATAC" class="item" href="images/clients/bancolombia.jpg">
                     <figure>
-                        <img src="images/clients/bancolombia.jpg">
+                        <img src="http://www.servirefriaire.com/images/clients/bancolombia.jpg">
                     </figure>
                 </a>                
                 <a rel="clients" title="CENATAC" class="item" href="images/clients/cat.jpg">
                     <figure>
-                        <img src="images/clients/cat.jpg">
+                        <img src="http://www.servirefriaire.com/images/clients/cat.jpg">
                     </figure>
                 </a>                
                 <a rel="clients" title="CENATAC" class="item" href="images/clients/comfama.jpg">
                     <figure>
-                        <img src="images/clients/comfama.jpg">
+                        <img src="http://www.servirefriaire.com/images/clients/comfama.jpg">
                     </figure>
                 </a>                
                 <a rel="clients" title="CENATAC" class="item" href="images/clients/epm.jpg">
                     <figure>
-                        <img src="images/clients/epm.jpg">
+                        <img src="http://www.servirefriaire.com/images/clients/epm.jpg">
                     </figure>
                 </a>                
                 <a rel="clients" title="CENATAC" class="item" href="images/clients/flamingo.jpg">
                     <figure>
-                        <img src="images/clients/flamingo.jpg">
+                        <img src="http://www.servirefriaire.com/images/clients/flamingo.jpg">
                     </figure>
                 </a>                
                 <a rel="clients" title="CENATAC" class="item" href="images/clients/inducorte.jpg">
                     <figure>
-                        <img src="images/clients/inducorte.jpg">
+                        <img src="http://www.servirefriaire.com/images/clients/inducorte.jpg">
                     </figure>
                 </a>                
-                <a rel="clients" title="CENATAC" class="item" href="images/clients/min-procinal.jpg">
+                <a rel="clients" title="CENATAC" class="item" href="http://www.servirefriaire.com/images/clients/min-procinal.jpg">
                     <figure>
-                        <img src="images/clients/min-procinal.jpg">
+                        <img src="http://www.servirefriaire.com/images/clients/min-procinal.jpg">
                     </figure>
                 </a>                
                 <a rel="clients" title="CENATAC" class="item" href="images/clients/min-puertadelnorte.jpg">
                     <figure>
-                        <img src="images/clients/min-puertadelnorte.jpg">
+                        <img src="http://www.servirefriaire.com/images/clients/min-puertadelnorte.jpg">
                     </figure>
                 </a>                
                 <a rel="clients" title="CENATAC" class="item" href="images/clients/min-sandiego.jpg">
                     <figure>
-                        <img src="images/clients/min-sandiego.jpg">
+                        <img src="http://www.servirefriaire.com/images/clients/min-sandiego.jpg">
                     </figure>
                 </a>                
                 <a rel="clients" title="CENATAC" class="item" href="images/clients/novaventa.jpg">
                     <figure>
-                        <img src="images/clients/novaventa.jpg">
+                        <img src="http://www.servirefriaire.com/images/clients/novaventa.jpg">
                     </figure>
                 </a>                             
             </div>
@@ -220,7 +220,7 @@
 
     <footer>
         <div class="servi">
-            <img src="images/servi.png">
+            <img src="http://www.servirefriaire.com/images/servi.png">
         </div>
         <div class="contact">
             <p><i class="fa fa-map-marker"></i> Carrera 50D #6 Sur-34, Medellín, Colombia</p>
@@ -249,7 +249,7 @@
     <link rel="stylesheet" href="assets/fancybox-2.1.7/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
     <script type="text/javascript" src="assets/fancybox-2.1.7/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
 
-    <script src="assets/js/main.js"></script>
+    <script src="http://www.servirefriaire.com/assets/js/main.js"></script>
 </body>
 
 </html>
