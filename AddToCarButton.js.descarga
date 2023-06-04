@@ -1,0 +1,45 @@
+$(document).ready(function () {
+    setInterval(function(){
+         $(".botoms a:first-child").click(function (e) {
+        e.preventDefault();
+        var ProductId = $(this).attr("tagproduct");
+        vtexjs.catalog
+            .getProductWithVariations(ProductId)
+            .done(function (product) {
+                var item = {
+                    id: product.skus[0].sku,
+                    quantity: 1,
+                    seller: "1",
+                };
+                vtexjs.checkout
+                    .addToCart([item], null, 1)
+                    .done(function (orderForm) {
+                        $(".SuccesAddToCar").toggle(500,"linear");
+                        setTimeout(function () {
+                            $(".SuccesAddToCar").toggle(500,"linear");
+                        }, 2000);
+                    });
+            });
+    });
+    },1000);
+   
+});
+
+function changeUrlSearch () {
+  const url = window.location.href
+  console.log('url', url)
+  const isSearchPage = url.includes('BuscaFullText')
+  const alreadyHasParameter = url.includes('?O=OrderByScoreASC')
+  console.log('isSearchPage', isSearchPage)
+  const newParameter = '?O=OrderByScoreASC'
+  if (isSearchPage && !alreadyHasParameter) {
+    const spliUrl = url.split('?')
+    const newUrl = spliUrl[0] + newParameter + '?' + spliUrl[1]
+    window.location.href = newUrl
+  }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  changeUrlSearch()
+})
+
